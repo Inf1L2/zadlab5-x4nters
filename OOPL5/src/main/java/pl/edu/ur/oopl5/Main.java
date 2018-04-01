@@ -42,7 +42,8 @@ public class Main {
     }
     
     private static void zadanie6(){
-        
+        Zadanie6 zad6 = new Zadanie6();
+        zad6.menu();
     }
     
     public static void main(String[] args) {
